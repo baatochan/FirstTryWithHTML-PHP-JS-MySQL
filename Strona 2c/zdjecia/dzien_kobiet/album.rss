@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Zdjęcia z dnia kobiet</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>2011-03-08 10.49.37</title>
+            <link>slides/2011-03-08 10.49.37.jpg#</link>
+            <pubDate>Mon, 21 Mar 2011 16:36:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2011-03-08 10.49.37.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/2011-03-08 10.49.37.jpg" width="800" height="600"/>
+            <jalbum:exif originalDate="08.03.11 10:49" cameraMake="SAMSUNG" cameraModel="SAMSUNG"/>
+            <guid isPermaLink="false">slides/2011-03-08 10.49.37.jpg</guid>
+        </item>
+        <item>
+            <title>2011-03-08 10.49.43</title>
+            <link>slides/2011-03-08 10.49.43.jpg#</link>
+            <pubDate>Mon, 21 Mar 2011 16:36:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2011-03-08 10.49.43.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/2011-03-08 10.49.43.jpg" width="800" height="600"/>
+            <jalbum:exif originalDate="08.03.11 10:49" cameraMake="SAMSUNG" cameraModel="SAMSUNG"/>
+            <guid isPermaLink="false">slides/2011-03-08 10.49.43.jpg</guid>
+        </item>
+        <item>
+            <title>2011-03-08 10.49.49</title>
+            <link>slides/2011-03-08 10.49.49.jpg#</link>
+            <pubDate>Mon, 21 Mar 2011 16:36:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2011-03-08 10.49.49.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/2011-03-08 10.49.49.jpg" width="800" height="600"/>
+            <jalbum:exif originalDate="08.03.11 10:49" cameraMake="SAMSUNG" cameraModel="SAMSUNG"/>
+            <guid isPermaLink="false">slides/2011-03-08 10.49.49.jpg</guid>
+        </item>
+        <item>
+            <title>2011-03-08 10.49.56</title>
+            <link>slides/2011-03-08 10.49.56.jpg#</link>
+            <pubDate>Mon, 21 Mar 2011 16:36:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2011-03-08 10.49.56.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/2011-03-08 10.49.56.jpg" width="800" height="600"/>
+            <jalbum:exif originalDate="08.03.11 10:49" cameraMake="SAMSUNG" cameraModel="SAMSUNG"/>
+            <guid isPermaLink="false">slides/2011-03-08 10.49.56.jpg</guid>
+        </item>
+        <item>
+            <title>2011-03-08 10.50.05</title>
+            <link>slides/2011-03-08 10.50.05.jpg#</link>
+            <pubDate>Mon, 21 Mar 2011 16:36:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2011-03-08 10.50.05.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/2011-03-08 10.50.05.jpg" width="800" height="600"/>
+            <jalbum:exif originalDate="08.03.11 10:50" cameraMake="SAMSUNG" cameraModel="SAMSUNG"/>
+            <guid isPermaLink="false">slides/2011-03-08 10.50.05.jpg</guid>
+        </item>
+        <item>
+            <title>2011-03-08 10.50.25</title>
+            <link>slides/2011-03-08 10.50.25.jpg#</link>
+            <pubDate>Mon, 21 Mar 2011 16:36:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2011-03-08 10.50.25.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/2011-03-08 10.50.25.jpg" width="800" height="600"/>
+            <jalbum:exif originalDate="08.03.11 10:50" cameraMake="SAMSUNG" cameraModel="SAMSUNG"/>
+            <guid isPermaLink="false">slides/2011-03-08 10.50.25.jpg</guid>
+        </item>
+        <item>
+            <title>2011-03-08 10.50.30</title>
+            <link>slides/2011-03-08 10.50.30.jpg#</link>
+            <pubDate>Mon, 21 Mar 2011 16:36:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2011-03-08 10.50.30.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/2011-03-08 10.50.30.jpg" width="800" height="600"/>
+            <jalbum:exif originalDate="08.03.11 10:50" cameraMake="SAMSUNG" cameraModel="SAMSUNG"/>
+            <guid isPermaLink="false">slides/2011-03-08 10.50.30.jpg</guid>
+        </item>
+    </channel>
+</rss>

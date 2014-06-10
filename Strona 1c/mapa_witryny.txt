@@ -1,0 +1,37 @@
+http://www.klasa-ic.cba.pl/add.php
+http://www.klasa-ic.cba.pl/autobusy.php
+http://www.klasa-ic.cba.pl/body.php
+http://www.klasa-ic.cba.pl/do_zassania.php
+http://www.klasa-ic.cba.pl/dowcipy.php
+http://www.klasa-ic.cba.pl/dzwonki.php
+http://www.klasa-ic.cba.pl/filmy.php
+http://www.klasa-ic.cba.pl/galeria.php
+http://www.klasa-ic.cba.pl/gry.php
+http://www.klasa-ic.cba.pl/head.php
+http://www.klasa-ic.cba.pl/index.php
+http://www.klasa-ic.cba.pl/index2.php
+http://www.klasa-ic.cba.pl/inne.php
+http://www.klasa-ic.cba.pl/insert.php
+http://www.klasa-ic.cba.pl/kaczowice.php
+http://www.klasa-ic.cba.pl/kocenie.php
+http://www.klasa-ic.cba.pl/koniec.php
+http://www.klasa-ic.cba.pl/kontakt.php
+http://www.klasa-ic.cba.pl/kontakt-lista.php
+http://www.klasa-ic.cba.pl/linki.php
+http://www.klasa-ic.cba.pl/mapy.php
+http://www.klasa-ic.cba.pl/menu2.php
+http://www.klasa-ic.cba.pl/menu3.php
+http://www.klasa-ic.cba.pl/midi_playback_show.php
+http://www.klasa-ic.cba.pl/muza.php
+http://www.klasa-ic.cba.pl/muza-add.php
+http://www.klasa-ic.cba.pl/newsy.php
+http://www.klasa-ic.cba.pl/o nas.php
+http://www.klasa-ic.cba.pl/plan budy.php
+http://www.klasa-ic.cba.pl/plan lekcji.php
+http://www.klasa-ic.cba.pl/reklama.php
+http://www.klasa-ic.cba.pl/zlehaslo.php
+http://www.klasa-ic.cba.pl/mysql/muza2.php
+http://www.klasa-ic.cba.pl/mysql/muza-add.php
+http://www.klasa-ic.cba.pl/Zdjecia/Kaczowice/galeria01.html
+http://www.klasa-ic.cba.pl/Zdjecia/Kocenie/galeria02.html
+http://www.klasa-ic.cba.pl/Zdjecia/Midi_Playback_Show/galeria03.html

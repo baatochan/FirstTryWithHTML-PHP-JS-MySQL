@@ -1,0 +1,1 @@
+﻿document.write('<p>I już po wycieczce. Szkoda, bo było na serio fajnie. Szkoda tylko że tak krótko. Na szczęście wszyscy się świetnie bawiliśmy na pewno nie zapomnimy o wycieczce do Głuchołazów.</p>');

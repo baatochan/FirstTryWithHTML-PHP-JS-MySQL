@@ -1,0 +1,236 @@
+/* Menu */
+
+#menu .first a {
+	margin: 0 0 0 -2px;
+}
+
+#menu .active a {
+	margin: 0 0 0 2px;
+}
+
+/* Page */
+
+#page {
+	background: /*#1777B1*/#07ab73;
+	width: 730px;
+	margin: 0 auto 20px auto;
+	padding: /*10px 0 15px*/10px 5px 0 5px;
+	border: 2px;
+	border-bottom: 1px solid #4AFEF4;
+	margin-bottom: 20px;
+	clear: both;
+}
+
+/* Galeria */
+/*
+.galeria {
+	height: 312px;
+}
+*/
+.zdjecie {
+	float: left;
+	margin: 0 10px 20px 0;
+	width: 160px;
+	height: 120px;
+}
+
+.zdjecie_link_opis {
+	clear: both;
+	margin: 10px 0;
+	position: relative;
+}
+
+/* Lightbox */
+
+#lightbox{	position: absolute;	left: 0; width: 100%; z-index: 100; text-align: center; line-height: 0;}
+#lightbox img{ width: auto; height: auto;}
+#lightbox a img{ border: none; }
+
+#outerImageContainer{ position: relative; background-color: #fff; width: 250px; height: 250px; margin: 0 auto; }
+#imageContainer{ padding: 10px; }
+
+#loading{ position: absolute; top: 40%; left: 0%; height: 25%; width: 100%; text-align: center; line-height: 0; }
+#hoverNav{ position: absolute; top: 0; left: 0; height: 100%; width: 100%; z-index: 10; }
+#imageContainer>#hoverNav{ left: 0;}
+#hoverNav a{ outline: none;}
+
+#prevLink, #nextLink{ width: 49%; height: 100%; background-image: url(data:image/gif;base64,AAAA); /* Trick IE into showing hover */ display: block; }
+#prevLink { left: 0; float: left;}
+#nextLink { right: 0; float: right;}
+#prevLink:hover, #prevLink:visited:hover { background: url(../images/prevlabel.gif) left 15% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(../images/nextlabel.gif) right 15% no-repeat; }
+
+#imageDataContainer{ font: 10px Verdana, Helvetica, sans-serif; background-color: #fff; margin: 0 auto; line-height: 1.4em; overflow: auto; width: 100%	; }
+
+#imageData{	padding:0 10px; color: #666; }
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em; outline: none;}	 	
+
+#overlay{ position: absolute; top: 0; left: 0; z-index: 90; width: 100%; height: 500px; background-color: #000; }
+
+/* Kontakt */
+/*
+.contact {
+	font-size: 18px;
+	text-align: center;
+}
+
+#table_contact {
+	width: 730px;
+	border-collapse: collapse;
+	border: 2px solid #4AF4FE;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+#table_contact td {
+	border: 2px solid #4AF4FE;
+	text-align: center;
+	background: #0AAAFD;
+	padding: 1px 5px;
+}*/
+
+.zlehaslo {
+	color: red;
+	text-align:center;
+}
+
+.wylogowano {
+	text-align: center;
+}
+
+.imienaz {
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.contact {
+	font-size: 15px;
+}
+
+.contact p {
+	margin: 0;
+	margin-top: 4px;
+	margin-left:31px;
+}
+
+.contact h4 {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 10px 10px 25px 31px;
+}
+
+.contact img {
+	font-size: 10px;
+}
+
+.contact div h3 {
+	float: left;
+	margin: 40px 8px;
+	margin-left: 0;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+.contact_zdj {
+	width: 200px;
+}
+
+.contact_icon {
+	float: left;
+	margin: 40px 8px;
+	height: 24px;
+	width: 24px;
+	margin-left: 0;
+}
+
+.contact_left {
+	float: left;
+	width: 300px;
+}
+
+.contact_right {
+	float: right;
+	width: 400px;
+	text-align: right;
+	padding-right: 30px;
+}
+
+.msc {
+	font-size: 13px;
+	text-decoration: italic;
+}
+
+/* Kontakt, O nas */
+
+#contact_alert, #plog {
+	font-size: 19px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	margin: 30px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+/* O nas */
+
+#divlog {
+	display: none;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	opacity: 0.5;
+	background: black;
+}
+
+#div2log {
+	display: none;
+	text-align: center;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -120px;
+	margin-top: -45px;
+	background: gray;
+	z-index: 10;
+	padding: 15px;
+}
+
+.osoba {
+	float: left;
+	text-align: center;
+	margin: 15px;
+	width: 140px;
+}
+
+.osoba a {
+	text-decoration: none;
+	margin: 0;
+}
+
+.osoba .p1 {
+	margin: 0;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.osoba .p2 {
+	margin: 0;
+	font-style: italic;
+}
+
+.osoba img {
+	border: 3px solid black;
+	width: 100px;
+	height: 100px;
+}
+
+#lista_ucz {
+	margin: 25px;
+}

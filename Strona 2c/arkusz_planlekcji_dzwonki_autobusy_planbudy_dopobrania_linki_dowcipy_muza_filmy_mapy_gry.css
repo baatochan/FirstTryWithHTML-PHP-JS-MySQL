@@ -1,0 +1,210 @@
+/* Menu */
+
+#menu .first a {
+	margin: 0 0 0 -2px;
+}
+
+/* Page */
+
+#page {
+	background: /*#1777B1*/#0AA9FD;
+	width: 730px;
+	margin: 0 auto 20px auto;
+	padding: /*10px 0 15px*/10px 5px 15px 5px;
+	border: 2px;
+	border-bottom: 1px solid #4AF4FE;
+	margin-bottom: 20px;
+	clear: both;
+}
+
+/* Dzwonki */
+
+.dzwonki {
+	text-align: center;
+}
+
+.lekcja {
+	font-size: 21px;
+	padding: 0px;
+	margin: 5px 0;
+}
+
+.przerwa {
+	font-size: 16px;
+	padding: 0px;
+	margin-left: 45px;
+}
+
+/* Autobusy */
+
+.autobusy table {
+	width: 485px;
+}
+
+.autobusy .alert {
+	margin-bottom: 10px;
+	line-height: 130%;
+}
+
+#szkolny {
+	border: 1px solid #4AF4FE;
+	border-collapse: collapse;
+	margin: auto;
+	text-align: center;
+}
+
+#szkolny thead {
+	font-size: 15px;
+}
+
+#szkolny thead th {
+	border: 1px solid #4AF4FE;
+}
+
+#szkolny .przed, #szkolny .po {
+	width: 50%;
+	border: 1px solid #4AF4FE;
+}
+
+#dziewiec, #cztery, #szesc {
+	border: 1px solid #4AF4FE;
+	margin: 20px auto 0px auto;
+	text-align: center;
+}
+
+#dziewiec th, #dziewiec td, #cztery th, #cztery td, #szesc th, #szesc td {
+	border: 1px solid #4AF4FE;
+}
+
+/* Mapy */
+
+.mapy {
+	list-style-type: square;
+}
+
+.mapy li {
+	padding: 0;
+}
+
+/* Filmy i Muzyka */
+
+.filmy_muzyka {
+	margin: auto;
+}
+
+.filmy_muzyka td, .filmy_muzyka th {
+	border: 1px solid #4AF4FE;
+}
+
+.play {
+	text-align: center;
+}
+
+/* Dowcipy */
+
+.dowcip {
+	margin-bottom: 40px;
+}
+
+.akapit_dowcipu {
+	margin: 0;
+}
+
+/* Linki */
+
+#linki {
+	list-style-type: square;
+}
+
+.linki {
+	width: 173px;
+	margin: auto;
+}
+
+#linki a {
+	text-decoration: none;
+}
+
+/* Nauczyciele */
+
+.nauczyciele {
+	list-style-type: square
+}
+
+/* Downloads */
+
+#google_chrome {
+	font-style: italic;
+}
+
+/*.downloads {
+	height: 198px;
+}
+wylaczone do czasu pojawienia sie 3 pozycji
+*/
+
+.program, .pobierz {
+	float: left;
+}
+
+.program {
+	width: 680px
+}
+
+.pobierz {
+	height: 88px;
+}
+
+.pobierz img {
+	margin-top: 12px;
+}
+
+/* Gry */
+
+#gry {
+	float: left;
+	margin-left: 107px;
+}
+
+#gry ul {
+	list-style-type: disc;
+}
+
+#polecane {
+	float: right;
+	margin-right: 107px;
+}
+
+#polecane ul {
+	list-style-type: circle;
+}
+
+#gry ul li a, #polecane ul li a {
+	text-decoration: none;
+}
+
+/* Plan Lekcji */
+
+.plan_lekcji th, .plan_lekcji td {
+	border: 2px solid #4AF4FE;
+}
+
+.plan_lekcji {
+	border: 1px solid #4AF4FE;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.plan_lekcji thead{
+	font-size: 14px;
+}
+
+/* Uczniowie */
+
+#wychowawca {
+	list-style-type: none;
+	padding-left: 23px;
+}

@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Konkurs na fotografa</title>
+   	<link>.</link>
+        <generator>Jalbum 8.12</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="Kaśka/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Eryk/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Paulina/album.rss" />   	
+    	
+        
+        <item>
+            <title>bartosz</title>
+            <link>slides/bartosz.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:03" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz1</title>
+            <link>slides/bartosz1.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz1.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:03" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz2</title>
+            <link>slides/bartosz2.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz2.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:04" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz3</title>
+            <link>slides/bartosz3.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz3.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:08" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz4</title>
+            <link>slides/bartosz4.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz4.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz4.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:15" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz4.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz5</title>
+            <link>slides/bartosz5.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz5.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz5.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:15" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz5.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz6</title>
+            <link>slides/bartosz6.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz6.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz6.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:15" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz6.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz7</title>
+            <link>slides/bartosz7.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz7.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz7.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:15" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz7.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz9</title>
+            <link>slides/bartosz9.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz9.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz9.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:15" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz9.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz10</title>
+            <link>slides/bartosz10.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz10.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz10.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:16" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz10.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz11</title>
+            <link>slides/bartosz11.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz11.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz11.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:16" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz11.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz12</title>
+            <link>slides/bartosz12.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz12.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz12.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:16" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz12.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz13</title>
+            <link>slides/bartosz13.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz13.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz13.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:16" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz13.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz14</title>
+            <link>slides/bartosz14.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz14.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz14.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:16" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz14.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz15</title>
+            <link>slides/bartosz15.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz15.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz15.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:17" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz15.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz16</title>
+            <link>slides/bartosz16.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz16.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz16.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:17" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz16.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz17</title>
+            <link>slides/bartosz17.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz17.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz17.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:17" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz17.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz18</title>
+            <link>slides/bartosz18.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz18.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz18.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:17" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz18.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz19</title>
+            <link>slides/bartosz19.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz19.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz19.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:17" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz19.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz20</title>
+            <link>slides/bartosz20.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz20.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz20.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:18" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz20.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz21</title>
+            <link>slides/bartosz21.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz21.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz21.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:18" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz21.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz22</title>
+            <link>slides/bartosz22.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz22.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz22.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:18" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz22.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz23</title>
+            <link>slides/bartosz23.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz23.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz23.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:22" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz23.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz24</title>
+            <link>slides/bartosz24.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz24.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz24.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:18" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz24.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz25</title>
+            <link>slides/bartosz25.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz25.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz25.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:22" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz25.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz26</title>
+            <link>slides/bartosz26.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz26.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz26.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:22" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz26.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz27</title>
+            <link>slides/bartosz27.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz27.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz27.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:22" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz27.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz28</title>
+            <link>slides/bartosz28.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz28.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz28.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:22" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz28.jpg</guid>
+        </item>
+        
+        <item>
+            <title>bartosz_sugam</title>
+            <link>slides/bartosz_sugam.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bartosz_sugam.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/bartosz_sugam.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:25" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/bartosz_sugam.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam</title>
+            <link>slides/sugam.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:09" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam1</title>
+            <link>slides/sugam1.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam1.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:17" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam2</title>
+            <link>slides/sugam2.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam2.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:21" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam3</title>
+            <link>slides/sugam3.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam3.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:23" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam4</title>
+            <link>slides/sugam4.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam4.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam4.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:23" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam4.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam5</title>
+            <link>slides/sugam5.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam5.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam5.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:23" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam5.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam6</title>
+            <link>slides/sugam6.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam6.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam6.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:23" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam6.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam7</title>
+            <link>slides/sugam7.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam7.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam7.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:23" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam7.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam8</title>
+            <link>slides/sugam8.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam8.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam8.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:23" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam8.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam9</title>
+            <link>slides/sugam9.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam9.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam9.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:23" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam9.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam10</title>
+            <link>slides/sugam10.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam10.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam10.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:24" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam10.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam11</title>
+            <link>slides/sugam11.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam11.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam11.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:24" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam11.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam12</title>
+            <link>slides/sugam12.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam12.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam12.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:26" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam12.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sugam13</title>
+            <link>slides/sugam13.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sugam13.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/sugam13.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:26" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/sugam13.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nie_mam_pojecia</title>
+            <link>slides/nie_mam_pojecia.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nie_mam_pojecia.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/nie_mam_pojecia.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:18" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/nie_mam_pojecia.jpg</guid>
+        </item>
+        
+        <item>
+            <title>samowyzwalacz1</title>
+            <link>slides/samowyzwalacz1.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/samowyzwalacz1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/samowyzwalacz1.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:20" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/samowyzwalacz1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>samowyzwalacz2</title>
+            <link>slides/samowyzwalacz2.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/samowyzwalacz2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/samowyzwalacz2.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:21" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/samowyzwalacz2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>samowyzwalacz</title>
+            <link>slides/samowyzwalacz.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/samowyzwalacz.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/samowyzwalacz.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:19" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/samowyzwalacz.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

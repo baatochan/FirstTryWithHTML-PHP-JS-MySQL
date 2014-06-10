@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Paulina</title>
+   	<link>..</link>
+        <generator>Jalbum 8.12</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>paulina</title>
+            <link>slides/paulina.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:17 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/paulina.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/paulina.jpg" width="450" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:12" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/paulina.jpg</guid>
+        </item>
+        
+        <item>
+            <title>paulina1</title>
+            <link>slides/paulina1.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:17 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/paulina1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/paulina1.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:12" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/paulina1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>paulina2</title>
+            <link>slides/paulina2.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:17 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/paulina2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/paulina2.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:12" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/paulina2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>paulina3</title>
+            <link>slides/paulina3.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:17 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/paulina3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/paulina3.jpg" width="450" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:13" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/paulina3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>paulina4</title>
+            <link>slides/paulina4.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:17 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/paulina4.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/paulina4.jpg" width="450" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:13" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/paulina4.jpg</guid>
+        </item>
+        
+        <item>
+            <title>paulina5</title>
+            <link>slides/paulina5.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:17 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/paulina5.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/paulina5.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:13" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/paulina5.jpg</guid>
+        </item>
+        
+        <item>
+            <title>paulina6</title>
+            <link>slides/paulina6.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:17 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/paulina6.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/paulina6.jpg" width="450" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:13" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/paulina6.jpg</guid>
+        </item>
+        
+        <item>
+            <title>paulina7</title>
+            <link>slides/paulina7.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:17 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/paulina7.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/paulina7.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:13" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/paulina7.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,7 @@
+<td style="max-height: 28; text-align: center; background-color: rgb(211, 250, 202);" colspan="2">
+<center>
+<img style="width: 26px; height: 26px;" src="ukosnik%20zwykly.png"><a href="Plan%20lekcji.php"><img style="width: 119px; height: 26px; border: 0px solid" src="PRZYCISK%20PLAN%20LEKCJI.png"></a><img style="width: 26px; height: 26px;"  src="ukosnik%20zwykly.png"><a href="Dzwonki.php"><img style="width: 119px; height: 26px; border: 0px solid"  src="PRZYCISK%20DZWONKI.png"></a><img style="width: 26px; height: 26px;"  src="ukosnik%20zwykly.png"><a href="Autobusy.php"><img style="width: 119px; height: 26px; border: 0px solid"  src="PRZYCISK%20AUTOBUSY.png"></a><img style="width: 26px; height: 26px;"  src="ukosnik%20zwykly.png"><a href="Linki.php"><img style="width: 119px; height: 26px; border: 0px solid"  src="PRZYCISK%20LINKI.png"></a><img style="width: 26px; height: 26px;"  src="ukosnik%20zwykly.png"><a href="Dowcipy.php"><img style="width: 119px; height: 26px; border: 0px solid"  src="PRZYCISK%20DOWCIPY.png"></a><img style="width: 26px; height: 26px;"  src="ukosnik%20zwykly.png"><a href="Gry.php"><img style="width: 163px; height: 26px; border: 0px solid"  src="Gry.png"></a><img style="width: 26px; height: 26px;"  src="ukosnik%20zwykly.png">
+</center>
+</td>
+</tr>
+<tr>

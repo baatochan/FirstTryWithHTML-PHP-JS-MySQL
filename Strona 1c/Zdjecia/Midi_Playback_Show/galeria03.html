@@ -1,0 +1,1329 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">	
+	<!-- saved from url=(0014)about:internet -->
+<head>
+		
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta name="keywords" content="Zdjęcia z Midi Playback Show oraz Kabaretonu, Photo album, Jalbum 8.5, Galleria" />
+    	
+			
+				<meta name="description" content="Zdjęcia z Midi Playback Show oraz Kabaretonu" />
+			
+		
+		<meta name="medium" content="mult" />
+		
+
+		
+		<title>Zdjęcia z Midi Playback Show oraz Kabaretonu</title>
+		
+   			
+   				<link rel="image_src" href="slides/DSCF3606.JPG" />
+   			
+   		
+		<link href="res/galleria/galleria.css" rel="stylesheet" type="text/css" />
+		<link href="res/index.css" rel="stylesheet" type="text/css" />
+		<link href="res/styles.css" rel="stylesheet" type="text/css" />
+		
+		<style type="text/css">
+			.thumbnails li {
+				border-style: solid;
+				border-width: 3px;
+				border-color: #000000;
+			}
+			
+			.thumbnails li.active {
+				border-style: dashed;
+				border-width: 3px;
+				border-color: #000000;
+			}
+			
+			#main_image img {
+				border-style: double;
+				border-width: 3px;
+				border-color: #000000;
+			}
+
+			#middle_container {
+				height: 542px;
+			}
+		
+			#scroller_container,
+			#image_scroller {
+				width: 530px;
+			}
+			
+			#thumbnails_container {
+				width: 6890px;
+			}
+			
+			#scroller_container,
+			#image_scroller,
+			#thumbnails_container {
+				height: 106px;
+			}
+			
+			.thumbnails li {
+				width: 90px;
+				height: 90px;
+				margin: 0 10px 10px 0;
+			}
+
+			#right_arrow,
+			#left_arrow {
+				height: 90px;
+				width: 40px;
+			}
+			
+			#bottom_container {
+				margin: 30px 0;
+			}
+		</style>
+		<script src="res/jquery.js" type="text/javascript"></script>
+		
+			<script src="res/jquery.hotkeys.js" type="text/javascript"></script>
+			<script src="res/galleria/jquery.galleria.js" type="text/javascript"></script>
+			<script src="res/jquery.scrollimages.js" type="text/javascript"></script>
+			<script type="text/javascript">	
+				$(function() {
+					$(".thumbnails_unstyled").addClass("thumbnails");			
+					$("ul.thumbnails").galleria({
+						history: false,
+						clickNext: true,
+						insert: "#main_image",
+						onImage: function(image, caption, thumb) {
+							image.css("display", "none").fadeIn(500);
+							caption.css("display", "none").fadeIn(500);
+							var _li = thumb.parents("li");
+							_li.siblings().children("img.selected").fadeTo(500, 0.5);
+							thumb.fadeTo("fast", 1).addClass("selected");
+							image.attr("title", "Next image");
+						},
+						onThumb: function(thumb) {
+							var _li = thumb.parents("li");
+							var _fadeTo = _li.is(".active") ? "1" : 0.5;
+							thumb.css({display: "none", opacity: _fadeTo}).fadeIn(1500);
+							thumb.hover(
+								function() { 
+									thumb.fadeTo("fast", 1);		
+								},
+								function() {
+									_li.not(".active").children("img").fadeTo("fast", 0.5);
+								}
+							)
+						},
+						preloads: 3
+					});
+					
+					$.galleria.loader = $(new Image()).attr("src","res/loader.gif").attr("title","Loading...").addClass("loader");
+					
+					prepareArrow = function(arrow) {
+						arrow.css({display: "none", opacity: 0.5, "top": "3px"}).fadeIn( 1000);			
+						arrow.hover(
+							function() {
+								arrow.fadeTo("fast", 1);
+							},
+							function() {
+								arrow.fadeTo("fast", 0.5);			
+							}
+						);	
+					}
+					
+					var leftArrow = $("#left_arrow");
+					prepareArrow(leftArrow);
+					leftArrow.css({"left": "-60px"});
+					leftArrow.click(function() {
+						$.galleria.prev();	
+					});
+					
+					var rightArrow = $("#right_arrow");
+					prepareArrow(rightArrow);
+					rightArrow.css({"right": "-50px"});					
+					rightArrow.click(function() {
+						$.galleria.next();
+					});
+				});
+
+				$(document).bind("keydown", "left", function() {
+					if (!KeyboardNavigation.widgetHasFocus()) {
+						$.galleria.prev();
+					}
+				});
+				$(document).bind("keydown", "right", function() {
+					if (!KeyboardNavigation.widgetHasFocus()) {
+						$.galleria.next();
+					}
+				});
+
+				var KeyboardNavigation = {
+					widgetHasFocus: function() {
+						if(typeof _jaWidgetFocus != 'undefined' && _jaWidgetFocus) {
+							return true;
+						}
+						return false;
+					}
+				}
+
+				var ImageScroller = {
+					scrollRight: function() {
+						$(this).scrollImages({ onScroll: function() { $.galleria.start() }, direction: "right", duration: 120, imageWidth: 106, size: 5 });
+					},			
+					scrollLeft: function() {
+						$(this).scrollImages({ onScroll: function() { $.galleria.start() }, direction: "left", duration: 120, imageWidth: 106, size: 5 });
+					}
+				}		
+			</script>
+		
+	<link rel="alternate" href="album.rss" type="application/rss+xml"/>
+</head>
+	<body style="background-color: rgb(211, 229, 250)">
+		<div id="main">
+			
+				<div id="scroller_container">
+					<img class="hide" id="left_arrow" src="res/left.png" alt="Scroll left" title="Scroll left" />					
+					<div id="image_scroller">
+						<ul id="thumbnails_container" class="thumbnails_unstyled">
+							
+							
+								
+								<li class="active">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3606.JPG"><img src="thumbs/DSCF3606.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3607.JPG"><img src="thumbs/DSCF3607.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3608.JPG"><img src="thumbs/DSCF3608.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3609.JPG"><img src="thumbs/DSCF3609.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3612.JPG"><img src="thumbs/DSCF3612.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3613.JPG"><img src="thumbs/DSCF3613.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3614.JPG"><img src="thumbs/DSCF3614.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3616.JPG"><img src="thumbs/DSCF3616.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3617.JPG"><img src="thumbs/DSCF3617.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3618.JPG"><img src="thumbs/DSCF3618.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3619.JPG"><img src="thumbs/DSCF3619.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3620.JPG"><img src="thumbs/DSCF3620.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3621.JPG"><img src="thumbs/DSCF3621.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3623.JPG"><img src="thumbs/DSCF3623.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3624.JPG"><img src="thumbs/DSCF3624.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3625.JPG"><img src="thumbs/DSCF3625.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3626.JPG"><img src="thumbs/DSCF3626.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3627.JPG"><img src="thumbs/DSCF3627.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3628.JPG"><img src="thumbs/DSCF3628.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3629.JPG"><img src="thumbs/DSCF3629.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3630.JPG"><img src="thumbs/DSCF3630.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/DSCF3631.JPG"><img src="thumbs/DSCF3631.JPG" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1793.jpg"><img src="thumbs/Zdjęcie1793.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1795.jpg"><img src="thumbs/Zdjęcie1795.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1796.jpg"><img src="thumbs/Zdjęcie1796.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1799.jpg"><img src="thumbs/Zdjęcie1799.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1801.jpg"><img src="thumbs/Zdjęcie1801.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1802.jpg"><img src="thumbs/Zdjęcie1802.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1803.jpg"><img src="thumbs/Zdjęcie1803.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1804.jpg"><img src="thumbs/Zdjęcie1804.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1805.jpg"><img src="thumbs/Zdjęcie1805.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1807.jpg"><img src="thumbs/Zdjęcie1807.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1809.jpg"><img src="thumbs/Zdjęcie1809.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1810.jpg"><img src="thumbs/Zdjęcie1810.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1812.jpg"><img src="thumbs/Zdjęcie1812.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1814.jpg"><img src="thumbs/Zdjęcie1814.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1815.jpg"><img src="thumbs/Zdjęcie1815.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1817.jpg"><img src="thumbs/Zdjęcie1817.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1818.jpg"><img src="thumbs/Zdjęcie1818.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1819.jpg"><img src="thumbs/Zdjęcie1819.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1820.jpg"><img src="thumbs/Zdjęcie1820.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1821.jpg"><img src="thumbs/Zdjęcie1821.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1822.jpg"><img src="thumbs/Zdjęcie1822.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1823.jpg"><img src="thumbs/Zdjęcie1823.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1824.jpg"><img src="thumbs/Zdjęcie1824.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1825.jpg"><img src="thumbs/Zdjęcie1825.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1826.jpg"><img src="thumbs/Zdjęcie1826.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1827.jpg"><img src="thumbs/Zdjęcie1827.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1828.jpg"><img src="thumbs/Zdjęcie1828.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1829.jpg"><img src="thumbs/Zdjęcie1829.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1830.jpg"><img src="thumbs/Zdjęcie1830.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1831.jpg"><img src="thumbs/Zdjęcie1831.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1832.jpg"><img src="thumbs/Zdjęcie1832.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1833.jpg"><img src="thumbs/Zdjęcie1833.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1834.jpg"><img src="thumbs/Zdjęcie1834.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1835.jpg"><img src="thumbs/Zdjęcie1835.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1836.jpg"><img src="thumbs/Zdjęcie1836.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1837.jpg"><img src="thumbs/Zdjęcie1837.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1838.jpg"><img src="thumbs/Zdjęcie1838.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1839.jpg"><img src="thumbs/Zdjęcie1839.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1840.jpg"><img src="thumbs/Zdjęcie1840.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1841.jpg"><img src="thumbs/Zdjęcie1841.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1842.jpg"><img src="thumbs/Zdjęcie1842.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1843.jpg"><img src="thumbs/Zdjęcie1843.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+								
+								<li class="">
+									
+									
+										
+											
+										
+										
+									
+									
+										<a href="slides/Zdjęcie1844.jpg"><img src="thumbs/Zdjęcie1844.jpg" alt="" /></a>
+									
+								</li>
+								
+							
+						</ul>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>
+					<img class="hide" id="right_arrow" src="res/right.png" alt="Scroll right" title="Scroll right" />	
+				</div>
+				<div id="middle_container">
+					<div id="main_image"></div>
+				</div>
+					
+		</div>
+		<div id="footer">
+	<p id="bottom_container">
+		
+		Photo album created with <a href="http://jalbum.net" target="_blank" title="Jalbum 8.5">Jalbum 8.5</a> and <a href="http://jalbum.net/skins/skin/Galleria" title="Galleria">Galleria</a>
+	</p>
+	
+</div>
+
+	<div id="jalbumwidgetcontainer"></div>
+<script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+_jaSkin = "Galleria";
+_jaStyle = "Light.css";
+_jaVersion = "8.5.1";
+_jaLanguage = "pl";
+_jaPageType = "index";
+_jaRootPath = ".";
+_jaUserName = "klasa-ic";
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "http://jalbum.net/widgetapi/load.js";
+document.getElementById("jalbumwidgetcontainer").appendChild(script);
+//--><!]]></script>
+
+</body>
+</html>

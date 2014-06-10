@@ -1,0 +1,12 @@
+/* Stara przegladarka */
+
+#stara_przegladarka {
+	text-align: center;
+	font-size: 16px;
+	background: #1777B1;
+	color: red;
+}
+
+#stara_przegladarka a {
+	color: red;
+}

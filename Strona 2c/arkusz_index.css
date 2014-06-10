@@ -1,0 +1,89 @@
+/* Page */
+
+.index {
+	background: /*#1777B1*/#0AA9FD;
+	width: 730px;
+	margin: 0 auto 20px auto;
+	padding: /*10px 0 15px*/10px 5px 15px 5px;
+	border: 2px;
+	border-bottom: 1px solid #4AF4FE;
+	margin-bottom: 20px;
+}
+
+#witamy {
+	margin-bottom: 20px; 
+	padding-bottom: 15px; 
+	border-bottom: 1px solid #4AF4FE; 
+	clear: both;
+}
+
+#logo2 {
+	float: left;
+	background: #1777B1;
+	margin: 5px 10px 5px 5px;
+	padding: 5px;
+	width: 120px;
+	height: 160px;
+}
+
+#logo2 img {
+	width: 120px;
+	height: 160px;
+}
+
+#samorzad {
+	float: left;
+}
+
+#newsy {
+	float: right;
+}
+
+.samorzad_newsy {
+	width: 345px;
+	min-height: 200px;
+	margin: 0 0 21px 0;
+}
+
+.title {
+	text-align: center;
+	background: #3FD9EC url(images/img08.jpg) no-repeat;
+	width: 325px;
+	height: 30px;
+	padding: 13px 10px 7px 10px;
+	text-transform: uppercase;
+	font-size: 136%;
+	color: #144B6B;
+	text-align: center;
+}
+
+.samorzad_newsy h3 {
+	margin: 0;
+}
+
+.samorzad_newsy p, .samorzad_newsy ul, .samorzad_newsy ol {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+}
+
+.samorzad_newsy a {
+	text-decoration: none;
+}
+
+#samorzad ul li {
+	padding: 19px 15px;
+}
+
+#newsy ul li {
+	padding: 10px 15px;
+}
+
+.samorzad_newsy ul li {
+	border-bottom: 1px solid #4AF4FE;
+}
+
+#licznik_wejsc {
+	display: none;
+}

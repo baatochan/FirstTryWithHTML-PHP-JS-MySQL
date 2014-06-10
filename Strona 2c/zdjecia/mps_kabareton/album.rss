@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Zdjęcia z Midi Playback Show i Kabaretonu</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+    	<jalbum:link rel="sub" href="Bartosz/album.rss" />   	
+    	<jalbum:link rel="sub" href="Kasia/album.rss" />   	
+    	<jalbum:link rel="sub" href="P. Mazur/album.rss" />   	
+    	<jalbum:link rel="sub" href="Sugam/album.rss" />   	
+        
+    </channel>
+</rss>

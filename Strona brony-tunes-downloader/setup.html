@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="author" content="bartoszka1996">
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<title>Setup</title>
+		<link href="favicon.png" rel="shortcut icon" type="image/png">
+		<!--<link href="favicon.ico" rel="shortcut icon" type="image/ico">
+		<link href="basic.css" rel="stylesheet">
+		!--<script src="jquery-1.10.2.min.js" type="text/javascript"></script>-->
+		<style>
+			#container {
+				width: 510px;
+				margin: 0 auto 0;
+				padding: 20px;
+				
+				
+				text-align: center;
+				
+				/*background:gray;
+				height:200px;*/
+			}
+			label {
+				margin-right: 10px;
+			}
+			.range {
+				width: 60px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1 style="text-align:center;"><a href="index.html" style="color:blue; text-align:center;">BronyTunes Downloader</a></h1>
+		<div id="container">
+			<p>If you're here, I think that you've configured (and checked) your browser settings so now set details about downloading or just leave everything untouched to use default settings.</p>
+			<form action="setup.php" method="get" id="form1" name="form1">
+				<div>
+					<label for="amount">Amount of mp3 files downloaded at once</label>
+					<select name="amount" id="amount">
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+						<option value="6" selected="selected">6</option>
+						<option value="7">7</option>
+						<option value="8">8</option>
+						<option value="9">9</option>
+						<option value="10">10</option>
+						<option value="11">11</option>
+						<option value="12">12</option>
+					</select>
+				</div>
+				<div>
+					<p style="color: red">Firefox 10 can't download more than 6 files at once!</p>
+				</div>
+				<div>
+					<label for="interval">Interval of starting new downloads</label>
+					<select name="interval" id="interval">
+						<option value="10">10sec</option>
+						<option value="20">20sec</option>
+						<option value="30">30sec</option>
+						<option value="45">45sec</option>
+						<option value="60">1min</option>
+						<option value="90" selected="selected">1.5min</option>
+						<option value="120">2min</option>
+						<option value="150">2.5min</option>
+						<option value="180">3min</option>
+						<option value="240">4min</option>
+						<option value="300">5min</option>
+					</select>
+				</div>
+				<div>
+					<p style="color:gray">After that time new amount of files start download, so it depends on your Internet speed - 1.5min is perfect for 6 dwonloads at once and 10Mbps connection.</p>
+				</div>
+				<div>
+					<label for="range1">Range of songs to download</label>
+					<input type="number" name="range1" id="range1" class="range" maxlength="6" value="1" autocomplete="off" min="1">
+					<label for="range2" style="margin:0">to</label>
+					<input type="number" name="range2" id="range2" class="range" maxlength="6" value="10000" autocomplete="off" min="1">
+				</div>
+				<!--<input type="hidden" name="refresh" value="0">-->
+				<input type="submit" value="Start downloading">
+			</form>
+			<h3>Information about "Range of songs to download"</h3>
+			<p>Every song on bronytunes has own number. About first 3000 songs are sorted alphabetically. Those are the oldest songs in that service. Newer songs are sortet by date added. It means that the last song is the newest.</p>
+			<p>To get actual number of the newest song go to bronytunes. Choose the newest song (top-left tile on home page) and in the adress bar you'll see something like "bronytunes.com/songs/7840" and that "7840" number is the number of the newest song.</p>
+			<p>Of course you don't have to start from first song - you can eg. download just the 100 newest songs from bronytunes.</p>
+			<p>If you want just download a few specified songs find out its numbers and go <a href="setup_one.html">there</a>.</p>
+			
+		</div>
+		<footer style="font-style:italic; text-align:right;">Made by: <a href="https://google.com/+BartoszRodziewicz">Bart Rodziewicz AKA bartoszka1996</a></footer>
+	</body>
+</html>

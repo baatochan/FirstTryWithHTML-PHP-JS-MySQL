@@ -1,0 +1,29 @@
+/* Menu */
+
+#menu:hover {
+	padding: 5px 5px 0px 5px;
+}
+
+#menu {
+	padding: 5px;
+}
+
+#menu #first a {
+	margin: 0 0 0 -1px;
+}
+
+header {
+	padding: 0 5px 1px 5px;
+}
+
+/* gry *
+
+#gry {
+	margin-left: 53px;
+}
+
+#polecane {
+	margin-left: 0px;
+	margin-right: 53px;
+}
+*/

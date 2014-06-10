@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Zdjęcia z kocenia</title>
+   	<link>.</link>
+        <generator>Jalbum 8.5</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>9908e0c078a8e46fmed</title>
+            <link>slides/9908e0c078a8e46fmed.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 18:16:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/9908e0c078a8e46fmed.jpg" width="90" height="90"/>
+            <media:content url="slides/9908e0c078a8e46fmed.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/9908e0c078a8e46fmed.jpg</guid>
+        </item>
+        
+        <item>
+            <title>263e91368638b6c5med</title>
+            <link>slides/263e91368638b6c5med.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 18:16:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/263e91368638b6c5med.jpg" width="90" height="90"/>
+            <media:content url="slides/263e91368638b6c5med.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/263e91368638b6c5med.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

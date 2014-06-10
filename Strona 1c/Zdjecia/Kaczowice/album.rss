@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>kaczowice</title>
+   	<link>.</link>
+        <generator>Jalbum 8.5</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>01</title>
+            <link>slides/01.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01.jpg" width="90" height="90"/>
+            <media:content url="slides/01.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/01.jpg</guid>
+        </item>
+        
+        <item>
+            <title>02</title>
+            <link>slides/02.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02.jpg" width="90" height="90"/>
+            <media:content url="slides/02.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/02.jpg</guid>
+        </item>
+        
+        <item>
+            <title>03</title>
+            <link>slides/03.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03.jpg" width="90" height="90"/>
+            <media:content url="slides/03.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/03.jpg</guid>
+        </item>
+        
+        <item>
+            <title>04</title>
+            <link>slides/04.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04.jpg" width="90" height="90"/>
+            <media:content url="slides/04.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/04.jpg</guid>
+        </item>
+        
+        <item>
+            <title>05</title>
+            <link>slides/05.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05.jpg" width="90" height="90"/>
+            <media:content url="slides/05.jpg" width="383" height="512"/>
+            
+            
+            <guid isPermaLink="false">slides/05.jpg</guid>
+        </item>
+        
+        <item>
+            <title>06</title>
+            <link>slides/06.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06.jpg" width="90" height="90"/>
+            <media:content url="slides/06.jpg" width="383" height="512"/>
+            
+            
+            <guid isPermaLink="false">slides/06.jpg</guid>
+        </item>
+        
+        <item>
+            <title>07</title>
+            <link>slides/07.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07.jpg" width="90" height="90"/>
+            <media:content url="slides/07.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/07.jpg</guid>
+        </item>
+        
+        <item>
+            <title>08</title>
+            <link>slides/08.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/08.JPG" width="90" height="90"/>
+            <media:content url="slides/08.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:13" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/08.JPG</guid>
+        </item>
+        
+        <item>
+            <title>09</title>
+            <link>slides/09.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/09.jpg" width="90" height="90"/>
+            <media:content url="slides/09.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/09.jpg</guid>
+        </item>
+        
+        <item>
+            <title>10</title>
+            <link>slides/10.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10.jpg" width="90" height="90"/>
+            <media:content url="slides/10.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/10.jpg</guid>
+        </item>
+        
+        <item>
+            <title>11</title>
+            <link>slides/11.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/11.JPG" width="90" height="90"/>
+            <media:content url="slides/11.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:15" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/11.JPG</guid>
+        </item>
+        
+        <item>
+            <title>12</title>
+            <link>slides/12.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12.JPG" width="90" height="90"/>
+            <media:content url="slides/12.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:17" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/12.JPG</guid>
+        </item>
+        
+        <item>
+            <title>13</title>
+            <link>slides/13.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/13.JPG" width="90" height="90"/>
+            <media:content url="slides/13.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:17" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/13.JPG</guid>
+        </item>
+        
+        <item>
+            <title>14</title>
+            <link>slides/14.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14.JPG" width="90" height="90"/>
+            <media:content url="slides/14.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:19" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/14.JPG</guid>
+        </item>
+        
+        <item>
+            <title>15</title>
+            <link>slides/15.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/15.JPG" width="90" height="90"/>
+            <media:content url="slides/15.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:20" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/15.JPG</guid>
+        </item>
+        
+        <item>
+            <title>16</title>
+            <link>slides/16.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16.JPG" width="90" height="90"/>
+            <media:content url="slides/16.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:21" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/16.JPG</guid>
+        </item>
+        
+        <item>
+            <title>17</title>
+            <link>slides/17.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/17.JPG" width="90" height="90"/>
+            <media:content url="slides/17.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:22" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/17.JPG</guid>
+        </item>
+        
+        <item>
+            <title>18</title>
+            <link>slides/18.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/18.JPG" width="90" height="90"/>
+            <media:content url="slides/18.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:22" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/18.JPG</guid>
+        </item>
+        
+        <item>
+            <title>19</title>
+            <link>slides/19.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/19.JPG" width="90" height="90"/>
+            <media:content url="slides/19.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:23" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/19.JPG</guid>
+        </item>
+        
+        <item>
+            <title>20</title>
+            <link>slides/20.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20.JPG" width="90" height="90"/>
+            <media:content url="slides/20.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:24" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/20.JPG</guid>
+        </item>
+        
+        <item>
+            <title>21</title>
+            <link>slides/21.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21.JPG" width="90" height="90"/>
+            <media:content url="slides/21.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:25" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/21.JPG</guid>
+        </item>
+        
+        <item>
+            <title>22</title>
+            <link>slides/22.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/22.JPG" width="90" height="90"/>
+            <media:content url="slides/22.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:25" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/22.JPG</guid>
+        </item>
+        
+        <item>
+            <title>23</title>
+            <link>slides/23.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/23.JPG" width="90" height="90"/>
+            <media:content url="slides/23.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:25" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/23.JPG</guid>
+        </item>
+        
+        <item>
+            <title>24</title>
+            <link>slides/24.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/24.JPG" width="90" height="90"/>
+            <media:content url="slides/24.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:25" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/24.JPG</guid>
+        </item>
+        
+        <item>
+            <title>25</title>
+            <link>slides/25.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/25.JPG" width="90" height="90"/>
+            <media:content url="slides/25.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:26" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/25.JPG</guid>
+        </item>
+        
+        <item>
+            <title>26</title>
+            <link>slides/26.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/26.JPG" width="90" height="90"/>
+            <media:content url="slides/26.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:26" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/26.JPG</guid>
+        </item>
+        
+        <item>
+            <title>27</title>
+            <link>slides/27.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/27.JPG" width="90" height="90"/>
+            <media:content url="slides/27.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 10:31" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/27.JPG</guid>
+        </item>
+        
+        <item>
+            <title>28</title>
+            <link>slides/28.JPG#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/28.JPG" width="90" height="90"/>
+            <media:content url="slides/28.JPG" width="512" height="384"/>
+            
+            <jalbum:exif originalDate="10.10.09 11:26" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/28.JPG</guid>
+        </item>
+        
+        <item>
+            <title>29</title>
+            <link>slides/29.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/29.jpg" width="90" height="90"/>
+            <media:content url="slides/29.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/29.jpg</guid>
+        </item>
+        
+        <item>
+            <title>30</title>
+            <link>slides/30.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/30.jpg" width="90" height="90"/>
+            <media:content url="slides/30.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/30.jpg</guid>
+        </item>
+        
+        <item>
+            <title>31</title>
+            <link>slides/31.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/31.jpg" width="90" height="90"/>
+            <media:content url="slides/31.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/31.jpg</guid>
+        </item>
+        
+        <item>
+            <title>32</title>
+            <link>slides/32.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/32.jpg" width="90" height="90"/>
+            <media:content url="slides/32.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/32.jpg</guid>
+        </item>
+        
+        <item>
+            <title>33</title>
+            <link>slides/33.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/33.jpg" width="90" height="90"/>
+            <media:content url="slides/33.jpg" width="375" height="500"/>
+            
+            
+            <guid isPermaLink="false">slides/33.jpg</guid>
+        </item>
+        
+        <item>
+            <title>34</title>
+            <link>slides/34.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/34.jpg" width="90" height="90"/>
+            <media:content url="slides/34.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/34.jpg</guid>
+        </item>
+        
+        <item>
+            <title>35</title>
+            <link>slides/35.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/35.jpg" width="90" height="90"/>
+            <media:content url="slides/35.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/35.jpg</guid>
+        </item>
+        
+        <item>
+            <title>36</title>
+            <link>slides/36.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/36.jpg" width="90" height="90"/>
+            <media:content url="slides/36.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/36.jpg</guid>
+        </item>
+        
+        <item>
+            <title>37</title>
+            <link>slides/37.jpg#</link>
+            <pubDate>Fri, 25 Dec 2009 15:31:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/37.jpg" width="90" height="90"/>
+            <media:content url="slides/37.jpg" width="500" height="375"/>
+            
+            
+            <guid isPermaLink="false">slides/37.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Sugam</title>
+   	<link>..</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>P1110336</title>
+            <link>slides/P1110336.JPG#</link>
+            <pubDate>Tue, 22 Mar 2011 20:33:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1110336.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/P1110336.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="11.02.11 13:18" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/P1110336.JPG</guid>
+        </item>
+        <item>
+            <title>P1110337</title>
+            <link>slides/P1110337.JPG#</link>
+            <pubDate>Tue, 22 Mar 2011 20:33:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1110337.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/P1110337.JPG" width="450" height="600"/>
+            <jalbum:exif originalDate="11.02.11 13:19" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/P1110337.JPG</guid>
+        </item>
+        <item>
+            <title>P1110338</title>
+            <link>slides/P1110338.JPG#</link>
+            <pubDate>Tue, 22 Mar 2011 20:33:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1110338.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/P1110338.JPG" width="450" height="600"/>
+            <jalbum:exif originalDate="11.02.11 13:20" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/P1110338.JPG</guid>
+        </item>
+        <item>
+            <title>P1110339</title>
+            <link>slides/P1110339.JPG#</link>
+            <pubDate>Tue, 22 Mar 2011 20:33:54 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1110339.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/P1110339.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="11.02.11 13:20" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/P1110339.JPG</guid>
+        </item>
+    </channel>
+</rss>

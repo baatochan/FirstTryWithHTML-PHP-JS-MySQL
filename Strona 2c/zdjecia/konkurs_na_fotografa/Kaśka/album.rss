@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Kaśka</title>
+   	<link>..</link>
+        <generator>Jalbum 8.12</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>kaska</title>
+            <link>slides/kaska.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kaska.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kaska.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:09" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/kaska.jpg</guid>
+        </item>
+        
+        <item>
+            <title>kaska1</title>
+            <link>slides/kaska1.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kaska1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kaska1.jpg" width="450" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:09" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/kaska1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>kaska2</title>
+            <link>slides/kaska2.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kaska2.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kaska2.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:10" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/kaska2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>kaska3</title>
+            <link>slides/kaska3.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kaska3.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kaska3.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:10" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/kaska3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>kaska4</title>
+            <link>slides/kaska4.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kaska4.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kaska4.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:11" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/kaska4.jpg</guid>
+        </item>
+        
+        <item>
+            <title>kaska5</title>
+            <link>slides/kaska5.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kaska5.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kaska5.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:11" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/kaska5.jpg</guid>
+        </item>
+        
+        <item>
+            <title>kaska6</title>
+            <link>slides/kaska6.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kaska6.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kaska6.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:12" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/kaska6.jpg</guid>
+        </item>
+        
+        <item>
+            <title>kaska7</title>
+            <link>slides/kaska7.jpg#</link>
+            <pubDate>Tue, 26 Oct 2010 16:43:16 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kaska7.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/kaska7.jpg" width="800" height="600"/>
+            
+            <jalbum:exif originalDate="12.10.10 11:12" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/kaska7.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

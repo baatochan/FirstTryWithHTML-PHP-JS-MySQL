@@ -1,0 +1,195 @@
+/* Menu */
+
+#menu .first a {
+	margin: 0 0 0 -2px;
+}
+
+/* Page */
+
+#page {
+	background: /*#1777B1*/#07ab73;
+	width: 730px;
+	margin: 0 auto 20px auto;
+	padding: /*10px 0 15px*/10px 5px 0 5px;
+	border: 2px;
+	border-bottom: 1px solid #4AFEF4;
+	margin-bottom: 20px;
+	clear: both;
+}
+
+/* Dzwonki */
+
+.dzwonki {
+	text-align: center;
+}
+
+.lekcja {
+	font-size: 21px;
+	padding: 0px;
+	margin: 5px 0;
+}
+
+.przerwa {
+	font-size: 16px;
+	padding: 0px;
+	margin-left: 45px;
+}
+
+/* Autobusy */
+
+#bus_left {
+	float: left;
+}
+
+#bus_right {
+	float: right;
+}
+
+#bus_content {
+	margin: 15px auto auto auto;
+	width: 450px;
+}
+
+#bus_content h4 {
+	text-align: center;
+}
+
+#bus_content div {
+	width: 177px;
+}
+
+#bus_content p {
+	line-height: 140%;
+	margin: 5px 0;
+}
+
+/* Nauczyciele */
+
+.nauczyciele {
+	list-style-type: square
+}
+
+.osoba2 {
+	float: left;
+	text-align: center;
+	margin: 15px;
+	width: 140px;
+	height: 201px;
+}
+
+.osoba2 a {
+	text-decoration: none;
+	margin: 0;
+}
+
+.osoba2 .p1 {
+	margin: 0;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.osoba2 .p2 {
+	margin: 0;
+	font-style: italic;
+}
+
+.osoba2 img {
+	border: 3px solid black;
+	width: 100px;
+}
+
+/* Plan Lekcji */
+
+.plan_lekcji th, .plan_lekcji td {
+	border: 2px solid #36bab3;
+}
+
+.plan_lekcji {
+	border: 1px solid #36bab3;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.plan_lekcji thead{
+	font-size: 14px;
+}
+
+/* Uczniowie */
+
+.osoba {
+	float: left;
+	text-align: center;
+	margin: 15px;
+	width: 140px;
+}
+
+.osoba a {
+	text-decoration: none;
+	margin: 0;
+}
+
+.osoba .p1 {
+	margin: 0;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.osoba .p2 {
+	margin: 0;
+	font-style: italic;
+}
+
+.osoba img {
+	border: 3px solid black;
+	width: 100px;
+}
+
+#ucz_new {
+	margin: 25px;
+}
+
+.spr {
+	text-decoration: underline;
+}
+
+/* Rekrutacja */
+
+.rekrutacja {
+	text-align: left;
+}
+
+.rekrutacja ul {
+	list-style-type: circle;
+	padding-left: 20px;
+}
+
+.rekrutacja ul li {
+	padding: 0;
+}
+
+.rekrutacja ol li {
+	padding: 0;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.rekrutacja ol li h4 {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.rekrutacja ol li p, .rekrutacja ol li li {
+	font-size: 13px;
+	font-weight: normal;
+}
+
+.rekrutacja ol p, .rekrutacja ol ul {
+	margin-left: 20px;
+}
+
+.rekrutacja h3 {
+	text-align: center;
+}

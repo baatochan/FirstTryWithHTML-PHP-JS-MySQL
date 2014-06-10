@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+body {
+	background: #fff;
+	color: #333;
+}
+
+a:link,
+a:visited {
+	color: #4c8033;;
+}
+
+a:active,
+a:hover {
+	color: #6db94a;
+}
+
+.description,
+.caption {
+	color: #666;
+}
+
+#main_image img {
+	border-color: #ababab;
+}
+
+.thumbnails li {	
+	border-color: #ababab;
+	background: #fff;	
+}
+
+.thumbnails li.active {
+	border-color: #666;
+}
+
+#bottom_container {
+	border-top-color: #ababab;	
+}

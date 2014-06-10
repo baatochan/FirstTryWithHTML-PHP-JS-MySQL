@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Zdjęcia z Zielonej Szkoły 2010</title>
+   	<link>.</link>
+        <generator>Jalbum 8.12</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="Zdjęcia Sugama i Bartosza/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Zdjęcia Eli/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Zdjęcia Mazurowej/album.rss" />   	
+    	
+        
+    </channel>
+</rss>
