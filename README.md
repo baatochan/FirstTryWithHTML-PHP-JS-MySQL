@@ -1,5 +1,5 @@
 # First Try with HTML, PHP, JS & MySQL
-All the webpages written by me before the university.
+All the webpages written by me before the university (before Sep 2015).
 
 
 Author: Bartosz Rodziewicz
