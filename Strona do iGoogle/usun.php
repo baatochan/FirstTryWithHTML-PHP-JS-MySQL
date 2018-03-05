@@ -37,7 +37,7 @@
 				}
 			?>
 			<footer>
-				<p>~~Designed by <a href="http://www.facebook.com/bartoszka1996">bartoszka1996</a></p>
+				<p>~~Designed by <a href="https://plus.google.com/113232252744106953426?rel=author">bartoszka1996</a></p>
 			</footer>
 		</div>
 	</body>

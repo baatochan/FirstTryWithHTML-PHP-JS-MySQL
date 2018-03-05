@@ -24,14 +24,6 @@ h4 {
 
 /* Page */
 
-#body {
-	position: absolute;
-	left: 0px;
-	top: 0px;
-	z-index: 10001;
-	width: 100%;
-}
-
 #page {
 	margin: 8px;
 }
@@ -40,26 +32,20 @@ h4 {
 	text-align: center;
 	float: left;
 	padding: 5px;
-	margin: 0 5px;
+	width: 80px;
+	height: 60px;
 }
 
-.bookmark a img {
+.img {
 	height: 32px;
+	padding-bottom: 4px;
+}
+
+.img img {
+	width: 32px;
 }
 
 .bookmark a p {
-	margin: 0px;
-}
-
-#komendy {
-	float: right;
-	text-align: center;
-	margin: 1px;
-	border: 2px solid black;
-	padding: 2px 10px;
-}
-
-#komendy p {
 	margin: 0px;
 }
 
@@ -83,6 +69,19 @@ footer {
 	font-style: italic;
 	font-size: 85%;
 	margin: 8px;
+}
+
+#f_left {
+	float: left;
+	margin: 1px;
+}
+
+#f_left p {
+	margin: 0px;
+}
+
+#f_right {
+	float: right;
 }
 
 .cbalink {

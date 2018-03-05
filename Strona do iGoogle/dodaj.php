@@ -18,11 +18,11 @@
 				if($_POST){
 					$haslo = $_POST['pass'];
 					if($haslo == $pass){
-						echo '<form method="post"><p><label for="nazwa">Nazwa: </label><input type="text" name="nazwa"></p><p><label for="adres">Adres: </label><input type="text" name="adres"><input type="hidden" name="pass" value="xxx"></p><input type="hidden" name="pass" value="xxx"><p><input type="submit" value="Dodaj zakładkę"></p></form>';
+						echo '<form method="post"><p><label for="nazwa">Nazwa: </label><input type="text" name="nazwa"></p><p><label for="adres">Ikona: </label><input type="text" name="favicon"></p><p><label for="adres">Adres: </label><input type="text" name="adres"><input type="hidden" name="pass" value="xxx"></p><input type="hidden" name="pass" value="xxx"><p><input type="submit" value="Dodaj zakładkę"></p></form>';
 						$spr = $_POST['nazwa'];
 						if($spr != NULL) {
 							if($_SERVER['REQUEST_METHOD'] == 'POST'){
-								$query = mysql_query("INSERT INTO linki(adres, nazwa) values ('".$_POST['adres']."', '".$_POST['nazwa']."')");
+								$query = mysql_query("INSERT INTO linki(adres, favicon, nazwa) values ('".$_POST['adres']."', '".$_POST['favicon']."', '".$_POST['nazwa']."')");
 								echo '<p>Zakładkę dodano! <a href="index.php">Wróć</a></p>';
 							}
 						}
@@ -37,7 +37,7 @@
 				}
 			?>
 			<footer>
-				<p>~~Designed by <a href="http://www.facebook.com/bartoszka1996">bartoszka1996</a></p>
+				<p>~~Designed by <a href="https://plus.google.com/113232252744106953426?rel=author">bartoszka1996</a></p>
 			</footer>
 		</div>
 	</body>

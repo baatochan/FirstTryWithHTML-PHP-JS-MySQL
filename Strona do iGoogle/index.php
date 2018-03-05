@@ -7,29 +7,29 @@
 		<meta name="keywords" content="strona domowa, bartoszka1996, strona startowa, igoogle, home">
 		<meta name="description" content="Jest to strona domowa webmastera bartoszka1996, zawierająca iframe z iGoogle i linki do najczęściej używanych stron.">
 		<title>Strona domowa - bartoszka1996</title>
-		<!--<link href="favicon.ico" rel="shortcut icon" type="image/ico">-->
 		<link href="arkusz_podstawowy.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
-		<div id="body">
-			<div id="page">
-				<div id="komendy">
-					<h4>Komendy:</h4>
-					<p><a href="dodaj.php">Dodaj</a></p>
-					<p><a href="usun.php">Usuń</a></p>
-				</div>
-				<?php
+		<div id="page">
+			<?php
 					include("polacz.php");
-					$query = mysql_query("select id, adres, nazwa from linki");
+					$query = mysql_query("select * from linki order by id");
+					$lp = 1;
 					while($rekord = mysql_fetch_array($query)){
-						echo '<div class="bookmark" title="'.$rekord[0].'"><a href="'.$rekord[1].'" target="_top"><img src="'.$rekord[1].'favicon.ico" alt="'.$rekord[2].'"><p>'.$rekord[2].'</p></a></div>';
+						echo '<div class="bookmark" style="z-index: '.$lp.';" title="'.$rekord[0].'"><a href="'.$rekord[1].'" target="_top"><div class="img"><img src="'.$rekord[2].'" alt="'.$rekord[3].'"></div><p>'.$rekord[3].'</p></a></div>';
+						$lp = $lp + 1;
 					}
-				?>
-				<div style="clear: both;"></div>
-			</div>
-			<footer>
-				<p>~~Designed by <a href="http://www.facebook.com/bartoszka1996">bartoszka1996</a></p>
-			</footer>
+			?>
+			<div style="clear: both;"></div>
 		</div>
+		<footer>
+			<div id="f_left">
+				<p><a href="dodaj.php">Dodaj</a> :: <a href="usun.php">Usuń</a></p>
+			</div>
+			<div id="f_right">
+				<p>~~Designed by <a href="https://plus.google.com/113232252744106953426?rel=author">bartoszka1996</a></p>
+			</div>
+			<div style="clear: both;"></div>
+		</footer>
 	</body>
 </html>
