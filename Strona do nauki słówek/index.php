@@ -23,8 +23,7 @@
 			for ($i = 0; $i < $is; $i++) {
 				$rekord[$i] = array($i, 'xxx', 'yyy', 'zzza aabbbcccd ddeeefffg gghhhi iijjjk kklllmm mnnn ooopppq qq rrrss stt tuuuvvvw wwxxx yyyzzz');
 			}*/
-			//$con = mysqli_connect("localhost:3306","root","password","test");
-			$con = mysqli_connect("mysql.cba.pl","bartoszka1996","bartek22","bartoszka1996_cba_pl");
+			$con = mysqli_connect(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_NAME);
 			$result = mysqli_query($con,"select id, s_a, s_p, def from slowa order by rand() limit $is;");
 			while($row = mysqli_fetch_array($result)){
 				echo '
@@ -60,11 +59,11 @@
 				margin:0;
 				padding:0;
 			}
-			
+
 			.td_slowo_ang {
 				min-width: 212px;
 			}
-			
+
 			.td_slowo_pol {
 				height: 40px;
 				min-width: 212px;
@@ -90,7 +89,7 @@
 				width:160px;
 			}
 			</style>
-			
+
 			<!--<p>test</p>-->
 		</div>
 		<footer style="font-size: 14px; text-align: right;">
